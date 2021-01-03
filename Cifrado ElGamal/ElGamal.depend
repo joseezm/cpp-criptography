@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1543086785 source:c:\users\usuario\desktop\elgamal\main.cpp
+	<iostream>
+	"Gamal.h"
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<vector>
+
+1542858114 c:\users\usuario\desktop\elgamal\include\gamal.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+
+1543086700 source:c:\users\usuario\desktop\elgamal\src\gamal.cpp
+	"Gamal.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+

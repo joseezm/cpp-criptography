@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541275465 source:c:\users\usuario\desktop\firmad\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	"Firma.h"
+
+1541217376 c:\users\usuario\desktop\firmad\include\firma.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+
+1541275465 source:c:\users\usuario\desktop\firmad\src\firma.cpp
+	"Firma.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+

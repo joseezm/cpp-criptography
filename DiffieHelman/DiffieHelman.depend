@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1543039565 source:c:\users\usuario\desktop\diffiehelman\main.cpp
+	<iostream>
+	"DH.h"
+
+1543039369 c:\users\usuario\desktop\diffiehelman\include\dh.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<NTL/ZZ.h>
+	<time.h>
+	<stdlib.h>
+
+1543039648 source:c:\users\usuario\desktop\diffiehelman\src\dh.cpp
+	"DH.h"
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<NTL/ZZ.h>
+	<time.h>
+	<stdlib.h>
+

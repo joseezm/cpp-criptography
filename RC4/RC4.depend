@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1543085417 source:c:\users\usuario\desktop\rc4\main.cpp
+	<iostream>
+	"RC4.h"
+	"LFRS.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+
+1542951314 c:\users\usuario\desktop\rc4\include\rc4.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<bitset>
+
+1542951729 source:c:\users\usuario\desktop\rc4\src\rc4.cpp
+	"RC4.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<time.h>
+
+1543027604 source:c:\users\usuario\desktop\rc4\src\lfrs.cpp
+	"LFRS.h"
+	"RC4.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<time.h>
+	<bitset>
+	"RC4.h"
+
+1543027604 c:\users\usuario\desktop\rc4\include\lfrs.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+	<bitset>
+	"RC4.h"
+

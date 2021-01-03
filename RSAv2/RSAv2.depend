@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538247494 source:c:\users\usuario\desktop\rsav2\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	"RSA.h"
+
+1538248068 c:\users\usuario\desktop\rsav2\include\rsa.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+
+1538248304 source:c:\users\usuario\desktop\abstracta 2.0\rsav2\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	"RSA.h"
+
+1538248068 c:\users\usuario\desktop\abstracta 2.0\rsav2\include\rsa.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+

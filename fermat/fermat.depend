@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529154843 source:c:\users\usuario\desktop\fermat\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+

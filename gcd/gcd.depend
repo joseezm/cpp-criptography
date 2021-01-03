@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529722776 source:c:\users\usuario\desktop\gcd\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<string>
+	<sstream>
+
