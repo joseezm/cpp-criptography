@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1537513655 source:c:\users\spectre\desktop\abstracta\protocolosupersayayin\src\afin.cpp
+
+1537513626 source:c:\users\spectre\desktop\abstracta\protocolosupersayayin\src\chechi.cpp
+
+1537513647 source:c:\users\spectre\desktop\abstracta\protocolosupersayayin\src\enigma2.0.cpp
+
+1537515367 source:c:\users\spectre\desktop\abstracta\protocolosupersayayin\src\protocolo.cpp
+
+1537640775 source:c:\users\spectre\desktop\abstracta\protocolosupersayayin\main.cpp
+	<iostream>
+	"protocolo.h"
+	"chechi.h"
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1537639936 c:\users\spectre\desktop\abstracta\protocolosupersayayin\include\protocolo.h
+	"chechi.h"
+	"enigma2.0.h"
+	"afin.h"
+	<stdlib.h>
+	<time.h>
+	<string>
+	<fstream>
+
+1537517460 c:\users\spectre\desktop\abstracta\protocolosupersayayin\include\chechi.h
+	<string>
+
+1537641242 c:\users\spectre\desktop\abstracta\protocolosupersayayin\include\enigma2.0.h
+	<string>
+
+1537639936 c:\users\spectre\desktop\abstracta\protocolosupersayayin\include\afin.h
+	<stdlib.h>
+	<time.h>
+	<string>
+	<iostream>
+
